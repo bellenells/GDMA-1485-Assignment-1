@@ -19,3 +19,20 @@
     overflow: auto;
 }
 
+.bg-drkgrn, .bg-grn, .logo {
+	color: #fff;
+}
+
+.bg-drkgrn {
+	background-color: #10443f;
+}
+
+.bg-grn {
+	background-color: #104f41;
+}
+
+.logo {
+	font-family: 'Pacifico', cursive;
+}
+
+
